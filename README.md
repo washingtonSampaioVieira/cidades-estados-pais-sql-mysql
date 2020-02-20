@@ -1,2 +1,6 @@
-# cidades-estados-pais-sql-mysql
-Banco com cidades estados e país populado, banco relacional com chave primaria no padrão UUID.
+# Cidades, estados e país no MySQL, SQL pronto
+
+Banco com cidades estados e país **populado**. <br>
+---
+> Banco relacional, ultilizado como padrão de chave primaria o UUID (char(36)). 
+
